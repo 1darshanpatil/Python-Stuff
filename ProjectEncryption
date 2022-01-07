@@ -77,3 +77,4 @@ else:
                 else:
                         print(f'The above PIN is of {len(pin)}-digits')
         print('Program ended!')
+#The code is just the sample for howthings work however, needs to be done using class methods and the Try: Exception for inputs are to be functions also may need to  simplify the function so defined either by using deque sooooo.
