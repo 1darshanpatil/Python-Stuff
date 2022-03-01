@@ -1,3 +1,6 @@
+#Visit the below link how it works
+# https://i.stack.imgur.com/Ya7xn.png
+
 import random
 from math import e, pi
 N = int(input("Enter the value of N: "))
