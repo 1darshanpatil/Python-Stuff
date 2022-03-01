@@ -3,5 +3,9 @@ Most of times while solving problems I may end up creating number of .py files w
 
 | Index | Title |
 |---|---|
-|1| alpha |
+|1| [HackerrankProblemSolvingIntermediate](https://github.com/1darshanpatil/Python-Stuff/blob/main/HackerrankProblemSolvingIntermediate) |
+|2| [PalindromeWeek.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/PalindromeWeek.py) |
+|3| [Python Basic Certifications.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/Python%20Basic%20Certifications.py) |
+|4| [The_Value_of_PI_Using_Normal_Distribution_Optimized.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/The_Value_of_PI_Using_Normal_Distribution_Optimized.py) |
+|5 |[turtle_documentaion_example.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/turtle_documentaion_example.py) |
 
