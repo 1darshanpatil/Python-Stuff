@@ -10,4 +10,5 @@ Most of times while solving problems I may end up creating number of .py files w
 |5 |[turtle_documentaion_example.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/turtle_documentaion_example.py) |
 |6| [India_Map](https://github.com/1darshanpatil/X_days_of_Python/tree/main/%2325-Day)|
 |7|[Counting_words_from_text_file](https://github.com/1darshanpatil/Python-Stuff/tree/main/counting_words_from_a_text_file)|
+|8|[Primes_using_list_comprehension.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/primes_using_list_comprehension.py)|
 
