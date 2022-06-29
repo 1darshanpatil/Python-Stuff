@@ -35,3 +35,7 @@ Most of times while solving problems I may end up creating number of .py files w
 |16|[sunrise_sunset_time_input_parameters.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/sunrise_sunset_time_input_parameters.py)|
 |17|[Turtle_Race_With_Rank_of_Colors.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/Turtle_Race_With_Rank_of_Colors.py)|
 |18|[image_processing.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/image_processsing.py)|
+|19|[BinaryOfInteger.py]((https://github.com/1darshanpatil/Python-Stuff/blob/main/BinaryOfInteger.py)|
+|20|[clock_primes.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/clock_primes.py)|
+|21|[IsPowerOfTwo.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/IspowerOfTwo.py)|
+|22|[partitionplotcode.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/partitionplotcode.py)|
