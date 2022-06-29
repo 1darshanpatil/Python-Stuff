@@ -13,3 +13,10 @@ Most of times while solving problems I may end up creating number of .py files w
 |8|[Primes_using_list_comprehension.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/primes_using_list_comprehension.py)|
 |9|[investment_portfolio](https://github.com/1darshanpatil/Python-Stuff/tree/main/investment_portfolio)|
 |10|[project_encryption](https://github.com/1darshanpatil/Python-Stuff/tree/main/investment_portfolio)|
+|11|[api_request.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/api_request.py)|
+|12|[get_ltp_of_nse_stock.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/get_ltp_of_nse_stock.py)|
+|13|[Hirst_painting_using_class_method.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/Hirst_painting_using_class_method.py)|
+|14|[login_to_ultimatix.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/login_to_ultimatix.py)|
+|15|[NSEs_losesrs_and_gainers.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/NSEs_losesrs_and_gainers.py)|
+|16|[sunrise_sunset_time_input_parameters.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/sunrise_sunset_time_input_parameters.py)|
+|17|[Turtle_Race_With_Rank_of_Colors.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/Turtle_Race_With_Rank_of_Colors.py)|
