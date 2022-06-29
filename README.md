@@ -1,6 +1,20 @@
 # MyPythonCodes
 Most of times while solving problems I may end up creating number of .py files which are supposed to be my snippets out of which the snippet that I'll be going to use will be uploaded here
 
+[![alt text][image0]][hyperlink0]
+
+[hyperlink0]: https://www.hackerrank.com/certificates/f473600b0ee0
+[image0]: https://user-images.githubusercontent.com/72539638/176412261-ea7c9eb1-11d0-42e7-8055-157ecca063b7.png
+
+
+[![image2]][hyperlink2]
+
+[hyperlink2]: https://www.hackerrank.com/patildarshan4171
+[image2]: https://user-images.githubusercontent.com/72539638/176412696-0cd39927-4996-4526-8f8e-4e1071eb1153.png
+
+
+
+
 | Index | Title |
 |---|---|
 |1| [HackerrankProblemSolvingIntermediate](https://github.com/1darshanpatil/Python-Stuff/blob/main/HackerrankProblemSolvingIntermediate) |
