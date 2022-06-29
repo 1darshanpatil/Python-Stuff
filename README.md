@@ -12,3 +12,4 @@ Most of times while solving problems I may end up creating number of .py files w
 |7|[Counting_words_from_text_file](https://github.com/1darshanpatil/Python-Stuff/tree/main/counting_words_from_a_text_file)|
 |8|[Primes_using_list_comprehension.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/primes_using_list_comprehension.py)|
 |9|[investment_portfolio](https://github.com/1darshanpatil/Python-Stuff/tree/main/investment_portfolio)|
+|10|[project_encryption](https://github.com/1darshanpatil/Python-Stuff/tree/main/investment_portfolio)|
