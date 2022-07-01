@@ -41,4 +41,4 @@ Most of times while solving problems I may end up creating number of .py files w
 |22|[partitionplotcode.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/partitionplotcode.py)|
 |23|[MovingFile.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/MovingFile.py)|
 |24|[Euclids GCD.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/Euclids%20GCD.py)|
-|25|[Copy Lazy Payslip.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/Copy%20Lazy%20Payslip.py)|
+|25|[Copy Lazy Payslip.py](https://github.com/1darshanpatil/Python-Stuff/blob/main/Lazy%20Mans%20Payslips.py)|
